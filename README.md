@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/capa.jpg" width="320" alt="Metro 2033 PT-BR Capa">
+  <img src="images/capa.png" width="320" alt="Metro 2033 PT-BR Capa">
 </p>
 
 # 🚇 Metro 2033 — Tradução PT-BR
