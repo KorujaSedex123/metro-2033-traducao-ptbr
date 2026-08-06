@@ -16,7 +16,7 @@ No ano de 2033, a humanidade foi varrida da face da Terra. Os poucos milhares de
 Lá embaixo, na escuridão eterna, o que restou da civilização se fragmentou em pequenos estados-anões que disputam recursos vitais como água, filtros e espaço habitável. Entre alianças comerciais e guerras ideológicas, novos perigos espreitam nos túneis escuros: aberrações mutantes e os temíveis **Negros** (*The Dark ones*).
 
 ### 🗺️ Estações e Facções Chave:
-* **VDNKh (A Fronteira):** A estação natal do jovem Artyom. Próspera pela produção de seu famoso "chá de cogumelo", mas sob ataque constante dos terríveis Negros vindos do norte.
+* **VDNKh (A Fronteira):** A estação natal do jovem Artyom. Próspera pela produção de seu famoso \"chá de cogumelo\", mas sob ataque constante dos terríveis Negros vindos do norte.
 * **Aliança Hansa:** A liga de estações comerciais da Linha Circular, detentora de riquezas incomparáveis e do controle de fluxo de mercadorias.
 * **A Linha Vermelha:** Facção comunista idealista que busca unificar o metrô sob a foice e o martelo.
 * **Polis:** O último bastião cultural e científico da humanidade, situado na interseção de quatro linhas, governado por militares (*Kshatriyas*) e deuses do conhecimento (*Brahmins*).
@@ -38,6 +38,8 @@ A navegação no GitBook é gerenciada de forma dinâmica pelo arquivo `SUMMARY.
 
 * [Página Inicial / Introdução](README.md)
 * [Capítulo 1 — O Fim da Terra](capitulo-1.md)
+* [Capítulo 2 — O Caçador](capitulo-2.md)
+* [Capítulo 3 — Se Eu Não Voltar](capitulo-3.md)
 * *(Próximos capítulos em desenvolvimento...)*
 
 ---
@@ -46,7 +48,7 @@ A navegação no GitBook é gerenciada de forma dinâmica pelo arquivo `SUMMARY.
 
 * **Autor Original:** Dmitry Glukhovsky (Copyright © 2007).
 * **Base de Tradução:** Baseado na célebre tradução inglesa de Natasha Randall (Copyright © 2009) e no manuscrito digital revisado por Sh4dovvv (2010).
-* **Tradução PT-BR:** Desenvolvida de forma independente neste repositório.
+* **Tradução PT-BR:** Desenvolviva de forma independente neste repositório.
 
 > *"Aquele que for corajoso e paciente o bastante para encarar a escuridão a vida inteira, será o primeiro a ver um vislumbre de luz nela."*  
 > — **A máxima de Khan**
