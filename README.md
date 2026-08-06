@@ -59,10 +59,6 @@ A navegação no GitBook é gerenciada de forma dinâmica pelo arquivo `SUMMARY.
 * **Autor Original:** Dmitry Glukhovsky (Copyright © 2007).
 * **Base de Tradução:** Baseado na célebre tradução inglesa de Natasha Randall (Copyright © 2009) e no manuscrito digital distribuído historicamente.
 
-<p align="center">
-  <img src="images/warezbb_banner.png" width="220" alt="Warez-BB Uploaded by Sh4dovvv">
-</p>
-
 *Homenagem especial à comunidade digital de preservação Warez-BB e ao revisor Sh4dovvv pelo resgate histórico do manuscrito original em 2010.*
 
 > *“Aquele que for corajoso e paciente o bastante para encarar a escuridão a vida inteira, será o primeiro a ver um vislumbre de luz nela.”*  
