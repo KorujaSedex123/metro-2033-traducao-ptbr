@@ -8,3 +8,4 @@
 * [Capítulo 5 — Em Troca de Cartuchos 🎯](capitulos/capitulo-5.md)
 * [Capítulo 6 — O Direito dos Fortes 🐺](capitulos/capitulo-6.md)
 * [Capítulo 7 — O Khanato das Trevas 🌀](capitulos/capitulo-7.md)
+* [Capítulo 8 — O Quarto Reich 🦅](capitulos/capitulo-8.md)
