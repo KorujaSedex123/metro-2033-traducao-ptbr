@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tradu%C3%A7%C3%A3o-PT--BR-red?style=for-the-badge&logo=gitbook&logoColor=white" alt="Idioma PT-BR">
-  <img src="https://img.shields.io/badge/Cap%C3%ADtulos-3%20%2F%2020-333333?style=for-the-badge&logo=bookstack&logoColor=red" alt="Progresso">
+  <img src="https://img.shields.io/badge/Cap%C3%ADtulos-7%20%2F%2020-333333?style=for-the-badge&logo=bookstack&logoColor=red" alt="Progresso">
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
