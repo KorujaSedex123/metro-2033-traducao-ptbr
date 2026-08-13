@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tradu%C3%A7%C3%A3o-PT--BR-red?style=for-the-badge&logo=gitbook&logoColor=white" alt="Idioma PT-BR">
-  <img src="https://img.shields.io/badge/Cap%C3%ADtulos-8%20%2F%2020-333333?style=for-the-badge&logo=bookstack&logoColor=red" alt="Progresso">
+  <img src="https://img.shields.io/badge/Cap%C3%ADtulos-10%20%2F%2020-333333?style=for-the-badge&logo=bookstack&logoColor=red" alt="Progresso">
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
@@ -46,15 +46,17 @@ Para preservar a essência sombria e claustrofóbica da obra original, esta trad
 
 A navegação no GitBook é gerenciada de forma dinâmica pelo arquivo `SUMMARY.md`. Você pode acessar os capítulos traduzidos diretamente pelo menu lateral ou pelos links abaixo:
 
-* [Página Inicial / Introdução 🚇](README.md)
-* [Capítulo 1 — O Fim da Terra 💀](capitulos/capitulo-1.md)
-* [Capítulo 2 — O Caçador 🔦](capitulos/capitulo-2.md)
-* [Capítulo 3 — Se Eu Não Voltar ☣️](capitulos/capitulo-3.md)
-* [Capítulo 4 — A Voz dos Túneis 🔊](capitulos/capitulo-4.md)
-* [Capítulo 5 — Em Troca de Cartuchos 🎯](capitulos/capitulo-5.md)
-* [Capítulo 6 — O Direito dos Fortes 🐺](capitulos/capitulo-6.md)
-* [Capítulo 7 — O Khanato das Trevas 🌀](capitulos/capitulo-7.md)
-* [Capítulo 8 — O Quarto Reich 🦅](capitulos/capitulo-8.md)
+* [Página Inicial / Introdução ](README.md)
+* [Capítulo 1 — O Fim da Terra ](capitulos/capitulo-1.md)
+* [Capítulo 2 — O Caçador ](capitulos/capitulo-2.md)
+* [Capítulo 3 — Se Eu Não Voltar ](capitulos/capitulo-3.md)
+* [Capítulo 4 — A Voz dos Túneis ](capitulos/capitulo-4.md)
+* [Capítulo 5 — Em Troca de Cartuchos ](capitulos/capitulo-5.md)
+* [Capítulo 6 — O Direito dos Fortes ](capitulos/capitulo-6.md)
+* [Capítulo 7 — O Khanato das Trevas ](capitulos/capitulo-7.md)
+* [Capítulo 8 — O Quarto Reich ](capitulos/capitulo-8.md)
+* [Capítulo 9 — Du Stirbst ](capitulos/capitulo-9.md)
+* [Capítulo 10 — No Pasarán! ](capitulos/capitulo-10.md)
 * *(Próximos capítulos em desenvolvimento...)*
 
 🚇 ─── 💀 ─── 🔦 ─── ☣️ ─── 🚇
@@ -64,11 +66,11 @@ A navegação no GitBook é gerenciada de forma dinâmica pelo arquivo `SUMMARY.
 * **Autor Original:** Dmitry Glukhovsky (Copyright © 2007).
 * **Base de Tradução:** Baseado na célebre tradução inglesa de Natasha Randall (Copyright © 2009) e no manuscrito digital distribuído historicamente.
 
+
 *Homenagem especial à comunidade digital de preservação Warez-BB and ao revisor Sh4dovvv pelo resgate histórico do manuscrito original em 2010.*
 
 > *“Aquele que for corajoso e paciente o bastante para encarar a escuridão a vida inteira, será o primeiro a ver um vislumbre de luz nela.”*  
 > — **A máxima de Khan**
-
 
 <p align="center">
   <img src="images/the_end.png" width="320" alt="Metro 2033 - The End">
